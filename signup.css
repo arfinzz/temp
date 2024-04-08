@@ -1,0 +1,41 @@
+
+.signup-form__button{
+    background-color:#1a5f28;
+    border: none;
+    border-radius: 10px;
+}
+
+.signup-form__button:hover{
+    background-color: #083a12;
+}
+
+.signup-form__button:focus{
+    background-color: #1a5f28;
+}
+
+.signup-elements{
+    margin-top: 20px;
+    background: #9edaab;
+    border-radius: 20px;
+    padding: 20px;
+    height: 550px;
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-bar{
+    background-color:#1a5f28;
+}
+
+.brand{
+    color: aliceblue;
+}
+
+.brand:hover{
+    cursor: auto;
+    color: aliceblue;
+}
+
+
+
